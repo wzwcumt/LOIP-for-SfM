@@ -49,7 +49,7 @@ Based on the extracted features, we can employ exhaustive matching to determine 
 python Retrieval_Exh.py
 ```
   
-In addition, you can use '11.py' to calculate map@[N].
+In addition, you can use 'Cal_Map.py' to calculate map@[N].
 ```
 python Cal_Map.py
 ```
