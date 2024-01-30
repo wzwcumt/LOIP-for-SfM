@@ -1,0 +1,10 @@
+torchvision~=0.16.0
+h5py~=3.10.0
+numpy~=1.26.2
+pillow~=10.0.1
+tensorboardx~=2.6.2.2
+joblib~=1.2.0
+scipy~=1.11.4
+scikit-learn~=1.2.2
+faiss~=1.7.4
+mkl~=2023.1.0
